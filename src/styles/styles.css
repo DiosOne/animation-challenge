@@ -1,3 +1,5 @@
 .puppy-link{
-    text-decoration: green;
+    color: green;
+}
+.puppy-link:hover {color: pink;
 }
